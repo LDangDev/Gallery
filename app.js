@@ -1,9 +1,9 @@
-let images = document.querySelectorAll('.image img')
-let gallery = document.querySelector('.gallery')
-let galleryImage = document.querySelector('.gallery__img img')
-let closeBtn = document.querySelector('.gallery__close')
-let prevBtn = document.querySelector('.gallery__prevbtn')
-let nextBtn = document.querySelector('.gallery__nextbtn')
+const images = document.querySelectorAll('.image img')
+const gallery = document.querySelector('.gallery')
+const galleryImage = document.querySelector('.gallery__img img')
+const closeBtn = document.querySelector('.gallery__close')
+const prevBtn = document.querySelector('.gallery__prevbtn')
+const nextBtn = document.querySelector('.gallery__nextbtn')
 
 let currentIndex = 0
 
