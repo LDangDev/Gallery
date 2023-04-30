@@ -9,4 +9,5 @@ git clone https://github.com/LDangDev/Gallery.git
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br />
 [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)<br />
 [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)<br />
+### Preview
 ![Gallery preview](https://github.com/LDangDev/Gallery/blob/main/ezgif.com-video-to-gif.gif)
