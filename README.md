@@ -3,7 +3,7 @@ This is a simple gallery function that allows users to view a collection of pict
 ## Getting Started
 To use this project, you can simply download the source code from the GitHub repository. Alternatively, you can clone the repository to your local machine using the following command:
 ```
-https://github.com/LDangDev/Gallery.git
+git clone https://github.com/LDangDev/Gallery.git
 ```
 ### Built With
 [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)<br />
